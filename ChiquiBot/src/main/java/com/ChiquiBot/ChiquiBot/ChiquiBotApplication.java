@@ -10,4 +10,5 @@ public class ChiquiBotApplication {
 		SpringApplication.run(ChiquiBotApplication.class, args);
 	}
 
+
 }
